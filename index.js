@@ -67,7 +67,7 @@ io.on("connection",(socket)=>{
 
 
 app.get('/x', (req, res) => {
-    res.send('Hello World!')
+    res.send('Hello fuck World!')
   })
 
 server.listen(port,()=>{
